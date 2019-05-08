@@ -8,7 +8,7 @@
 import requests
 import sys
 import re
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 # Variables
